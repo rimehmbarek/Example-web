@@ -15,6 +15,7 @@ color:#ababab;;
     #Career{
         color: #ababab;padding-left: 30px;
         padding-right: 30px;
+        text-decoration: none;
     }
         #Departments {
             color: #ababab;
@@ -78,7 +79,7 @@ p{ padding-right: 20px;}
 }
 
 .card3{background-color:rgb(36, 39, 42);
-    text-align:right;
+    text-align:left;
     font-size:x-large;
     height: 290px;
     width: 230px;
@@ -209,3 +210,11 @@ font-family: Work Sans, Arial, sans-serif;
         font-weight: 300;
         letter-spacing: -0.5px;
         text-align: center}
+        #choose1{ color:white;
+            background-color: #00b39b;
+        }
+        
+    #choose2{ background-color:rgb(8, 117, 195) ;
+    color:white}
+        #choose3{ background-color:rgb(36, 39, 42);
+        color:white }
