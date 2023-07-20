@@ -1,0 +1,213 @@
+*{ box-sizing:content-box ;}
+body{ background-color: rgb(255, 255, 255);}
+
+.container {display:flex;
+    justify-content: space-around;
+}
+
+.rrr a{background: rgb(255, 255, 255);
+    display: inline-block;
+color:#ababab;;
+}
+#About, #Career:hover, #Departments:hover {
+    color: #00b39b;
+    text-decoration: none;}
+    #Career{
+        color: #ababab;padding-left: 30px;
+        padding-right: 30px;
+    }
+        #Departments {
+            color: #ababab;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+            .nav{
+                font-size:x-large;
+                margin-top: 20px;
+                font-weight: 400
+            }
+.cc{ margin: 20px 5px 5px ;
+    text-align: center;}
+    
+    .im{justify-content: center;
+    display: flex;
+text-align: center
+;}
+h3{ font-size: 30px;
+text-align: center;
+color: #00b39b;
+    font-size:xx-large;
+    font-family: Work Sans, Arial, sans-serif;
+    letter-spacing: -0.3px;
+    padding-top: 2px;
+    font-weight: 500;;
+}
+.pargraph{ display:flex;
+justify-content:center;
+color:#ababab;
+text-align:left;
+margin: 0px 100px 0px 140px;
+font-size: large;
+}
+p{ padding-right: 20px;}
+
+.card1{background-color:#00b39b;;
+    text-align: left;
+  
+    font-size:x-large;
+    height: 290px;
+        width: 230px;
+        border-radius: 10px 10px 10px 10px;
+        padding: 10px 10px 30px 35px;
+        margin: 5px 10px 0px 300px;
+        display:inline-block;}
+
+
+
+.card2{background-color:rgb(8, 117, 195);
+    text-align: left;
+  
+    font-size:x-large;
+    height: 290px;
+    width: 220px;
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px 10px 30px 35px;
+    margin: 5px 10px 10px 10px;
+    display: inline-block;
+}
+
+.card3{background-color:rgb(36, 39, 42);
+    text-align: left;
+    font-size:x-large;
+    height: 290px;
+    width: 230px;
+    border-radius: 10px 10px 10px 10px ;
+    padding: 15px 15px 30px 35px;
+    margin: 5px 10px 10px 10px;
+display: inline-block;}
+
+.card {display:inline-block;
+    justify-content: center;
+    color: aliceblue;
+}
+
+#vv{display: flex; 
+    color:rgb(58, 181, 148) ;
+font-style: unset;
+justify-content: left;
+margin-left: 230px;
+font-size: x-large;
+height: 200px;}
+
+.logo{ display:inline-block;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 250px;
+    padding: 30px;
+word-spacing: 50px;
+line-height: 50px;
+}
+.part2{display: flex;
+width: 80%;
+justify-content: center;
+align-items: center;}
+.part3{
+    margin-top:15px;
+    background-color: #d0faf4;
+    padding-left: 80px;
+height: 590px;
+padding-top:50px;
+}
+.p1{color: #00b39b;
+    letter-spacing: -0.3px;
+; font-size:large;
+display:inline;
+margin-block-start: 0.83em;
+margin-block-end: 0.83em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+justify-content:left;
+font-family: Work Sans, Arial, sans-serif;
+}
+.section4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+    background-color: #d0faf4;
+    padding-left: 50px;}
+    .section4header {
+        font-family: Work Sans, Arial, sans-serif;
+        padding-top: 60px;}
+        .section4fourparts div {
+            height: 500px;
+            width: 250px;}
+            .first2 {
+                display: flex;
+                flex-direction: column;
+                margin-top: 20px;
+                margin-right: 20px;}
+                #leader, #patients, #appointments, #doctors {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    background-color: #fff;
+                    text-align: center;
+                    width: 220px;
+                    border-radius: 2px;}
+
+                    #gg{
+                        font-size:medium;
+                        font-weight: 400;
+                        font-family: Roboto, Arial, sans-serif;
+                        color: #747474;
+                    font-size: larger;}
+                
+                        
+
+                        .section4fourparts h3{
+                            font-size: 1.8461538462em;
+                            color: #00b39b;
+                            font-family: Work Sans, Arial, sans-serif;
+                            font-weight: 300;
+                            letter-spacing: -0.3px;}
+                            .second2 {
+                                display: flex;
+                                flex-direction: column;
+                                margin-bottom: 20px;
+                            }
+                            #leader img, #patients img, #appointments img, #doctors img {
+                                width: 25px;
+                                height: auto;}
+                                .section4{ display:flex;}
+
+    .section4fourparts {
+    display: flex;
+    margin-right: 50px;
+    height: 100%;
+    justify-content: space-around;
+    margin-left: 100px;}
+
+    h2{ color: #00b39b;
+    font-size: xx-larger;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+}
+    #h3 {
+        font-size:x-large;
+        color: #00b39b;
+        font-family: Work Sans, Arial, sans-serif;
+        font-weight: 300;
+        letter-spacing: -0.5px;
+        text-align: center;
+    }
+    #pp{ font-size:medium;
+        color: #747474;
+        font-family: Work Sans, Arial, sans-serif;
+        font-weight: 300;
+        letter-spacing: -0.5px;
+        text-align: center;
+
+    }
